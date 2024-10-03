@@ -1,26 +1,65 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
-<h3 align="center">A passionate Machine Learning Engineer from pakistan</h3>
+# ML/DL/NLP/Generative AI Engineer Portfolio
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Overview
 
-- 🌱 I’m currently learning **ML,DL and NLP**
+Welcome to my GitHub portfolio! I am a Machine Learning Engineer with extensive hands-on experience in **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Generative AI**. This repository is a collection of projects and implementations that demonstrate my expertise across these domains.
 
-- 💬 Ask me about **Machine Learning, Deep Learning,NLP**
+## 🔧 Skills
 
-- 📫 How to reach me **mhamza7197@gmail.com**
+- **Machine Learning (ML)**:
+  - Supervised and Unsupervised Learning
+  - Feature Engineering, Model Optimization, Cross-validation
+  - Time-Series Analysis, Ensemble Models (Random Forest, XGBoost)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hamza" height="30" width="40" /></a>
-</p>
+- **Deep Learning (DL)**:
+  - Neural Networks, CNNs, RNNs, LSTMs
+  - Transfer Learning, Attention Mechanisms, Transformers
+  - Model Deployment (TensorFlow, PyTorch)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Natural Language Processing (NLP)**:
+  - Text Classification, Named Entity Recognition (NER), Sentiment Analysis
+  - Transformers (BERT, GPT, T5, etc.)
+  - Text Summarization, Question Answering, Language Models
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Muhammad Hamza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Muhammad Hamza" /></a></p><br><br>
+- **Generative AI**:
+  - Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs)
+  - Text-to-Image Models, AI for Creative Projects (Text, Image, Audio)
+  - Language Generation (GPT, BART)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzasand&show_icons=true&locale=en&layout=compact" alt="hamzasand" /></p>
+## 📂 Project Highlights
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasand&" alt="hamzasand" /></p>
+### 1. **[Text Summarization Using Transformers](https://github.com/yourusername/text-summarization)**
+   - Built a long-text summarization model using BART and LED transformers.
+   - Focused on summarizing medical reports, leveraging `ccdv/pubmed-summarization` dataset.
+   - Techniques: Transfer Learning, Transformers, PyTorch
 
+### 2. **[Lip-Sync Video Generation with Wav2Lip](https://github.com/yourusername/wav2lip)**
+   - Lip-syncing model that maps audio to video in real-time using Wav2Lip.
+   - Optimized inference script for faster processing by reducing I/O overhead.
+   - Techniques: Computer Vision, Deep Learning, Model Inference Optimization
+
+### 3. **[Speech-to-Text Real-Time Transcription](https://github.com/yourusername/speech-to-text)**
+   - Real-time speech transcription using Deepgram API for automatic speech recognition (ASR).
+   - Implemented efficient streaming from microphone input and synchronized text output.
+   - Techniques: ASR, Streaming Audio Processing, NLP
+
+### 4. **[Generative Art with GANs](https://github.com/yourusername/generative-art)**
+   - Created AI-generated artwork using GANs for image generation.
+   - Focused on training stable GAN architectures and tuning hyperparameters for high-quality outputs.
+   - Techniques: Generative Adversarial Networks, Image Processing, DL
+
+## 📊 Tools & Technologies
+
+- **Programming Languages**: Python, SQL, Bash
+- **Libraries & Frameworks**: PyTorch, TensorFlow, Keras, Hugging Face Transformers, OpenCV, FastAPI
+- **DevOps**: Docker, Kubernetes, CI/CD, Model Deployment
+- **APIs**: Deepgram, OpenAI, ElevenLabs
+- **Databases**: SQLAlchemy, SQLite, PostgreSQL
+- **Cloud**: AWS, GCP, Azure
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
