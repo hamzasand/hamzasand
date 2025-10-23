@@ -4,7 +4,7 @@
 
 Welcome to my GitHub portfolio! I am Muhammad Hamza, a **Machine Learning Engineer** with extensive hands-on experience in **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Generative AI**.  
 
-Recently, I’ve expanded my expertise to include **AI Automation** — designing and integrating smart, AI-powered workflows using **LangChain**, **LlamaIndex**, **n8n**, **Zapier**, and **Make.com**.  
+Recently, I’ve expanded my expertise to include **AI Automation** designing and integrating smart, AI-powered workflows using **LangChain**, **LlamaIndex**, **n8n**, **Zapier**, and **Make.com**.  
 My work focuses on bridging machine learning models with real-world systems to create **intelligent, automated solutions**.
 
 This repository showcases a range of projects demonstrating my work across **AI**, **automation**, and **workflow engineering**.
